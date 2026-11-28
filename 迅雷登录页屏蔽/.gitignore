@@ -1,0 +1,4 @@
+// Build output: run scripts\build.ps1 (or install.ps1) to regenerate.
+bin/
+*.exe
+*.pdb
